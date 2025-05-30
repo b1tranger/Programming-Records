@@ -1,0 +1,28 @@
+#sent by masud
+
+Array Traversing and Multidimensional Array
+Structure, Pointer, Dynamic Memory Allocation
+Recursion
+Stack, Queue, Linked List
+Linear Search, Binary Search, Insertion Sort, Selection, Sort, Bubble Sort, Merge Sort, Quick Sort
+Heap Sort, Heapify
+Topological Sort
+Graph Construction and Floyd Warshall
+BFS and DFS
+Hashing
+
+#jobair sir's
+
+- stack, queue
+- dynamic memory allocation using malloc,
+calloc, realloc, free
+- bubble sort, selection sort, insertion sort
+linked list
+- recursion
+- merge sort, quick sort
+- graph theorem
+- floyd warshall
+- heap sort [binary treel
+- topological sort
+- BFS, DFS
+- trie

@@ -1,0 +1,21 @@
+1. Multidimensional array
+2. Structure, pointer, dynamic memory allocation
+3. Selection sort, linear binary search, insertion sort, bubble sort, merge sort, quick sort
+4. stack, queue, linked lists. 
+5. graph, construction
+6. Floyd Warshell, BFS, DFS
+7. Heapsort and heapify + topological sort
+8. Recurtion
+
+
+# graphs in DM and DSA https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
+
+# Quiz
+1. Soctrative (100 Problems 100 minutes) 
+--> 5 options
+2. Printed (50 problems 70 minutes)
+--> 7 options
+3. printed (20 problems 10 minutes)
+--> 8 options
+
+

@@ -1,0 +1,28 @@
+Dear Students,
+This is to inform you that the Lab Final Exam for DSA I will be held on Tuesday, 20th May 2025. Please find the details below:
+
+Time Slots for each section:
+Section 3B1: 11:00 AM 
+Section 3B2: 12:30 PM 
+Quiz:
+Marks: 20
+Duration: 20 Minutes
+Coding Test:
+Marks: 15
+Duration: 50 Minutes
+Lab Final Syllabus:
+1. Implement Stack using array [ push, pop, top, isEmpty, display ]
+2. Implement Simple Queue using array [ enqueue, dequeue, front, isEmpty, display ]
+3. Implement Circular Queue using array
+4. Implement Priority Queue using array [optional for coding test]
+5. Implement DEqueue using array [optional for coding test]
+6. Linked List I [ Creation, traversing ]
+7. Linked List II [ Inserting node at tail, inserting node at any position, deleting any node ]
+8. Dynamic memory allocation [basic]
+9. Graph representation [ adjacency list and adjacency matrix ]
+
+Important Notes:
+Be present in the lab at least 10 minutes before your scheduled time.
+All topics mentioned above are important for both the quiz and coding sections.
+If you have any questions, feel free to reach out during class or via email.
+Best of luck with your preparation!

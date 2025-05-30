@@ -1,0 +1,13 @@
+Online Practice Problems
+Saima Siddique Tashfia
+•
+Yesterday
+100 points
+Due Feb 18
+Dear Students,
+Assignment Submission Instructions:
+Solve all the problems mentioned in the provided Word file.
+Save each solved problem as a separate .cpp file.
+Compress (zip) all your .cpp files into a single zip file.
+Rename the zip file in the following format: ID_Name_Section. Example: 0432410005101006_Omar Faruk Rakib_3B2.zip
+Submit the zip file before the deadline. Deadline: 18-02-2025.

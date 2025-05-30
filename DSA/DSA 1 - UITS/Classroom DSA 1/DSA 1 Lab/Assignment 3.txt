@@ -1,0 +1,58 @@
+Assignment 03 : Queue-Based Programming Assignment & Zoom Tutorial Submission Guidelines
+Saima Siddique Tashfia
+•
+4:02 PM
+10 points
+Due Apr 29
+Dear Students,
+
+You are assigned a programming task focusing on queue-based data structures. You are required to solve three problems using arrays in C++, and submit a corresponding Zoom video tutorial for each solution.
+You must solve the following:
+
+Dequeue Implementation Using Array
+Implement a double-ended queue (deque) in a simplified and efficient manner using arrays.
+
+Priority Queue in Ascending/Descending Order
+Build a priority queue using an array. Your implementation should support either ascending or descending order, based on your choice.
+
+Priority Queue with Associated Values
+Implement a priority queue using arrays, where each element has an associated priority value. Ensure correct ordering based on the priority.
+
+Video Tutorial Requirements
+For each problem, you must create a video tutorial using Zoom that demonstrates and explains your code.
+
+Video Recording Guidelines:
+Use Zoom to record your screen and your face (camera must be ON).
+Share your code editor and console output while explaining your solution.
+Your explanation must include:
+Overview of your approach
+Key logic behind the implementation
+Demonstration of the code in action
+
+Time Limit:
+Video should be no longer than 10 minutes.
+
+Submit one video explaining all problems.
+
+File Naming Convention:
+Save each video in MP4 format.
+
+Name each file as follows:
+YourName_ID_Section.mp4
+(Example: Gaus_12345_3B2.mp4)
+
+
+Ensure videos are clear, complete, and not corrupted.
+
+Academic Integrity
+Each student must complete and submit their own work.
+Plagiarism in any form (code or video) will result in strict disciplinary action.
+If you encounter any issues or need clarification, feel free to reach out during office hours or on the class forum.
+
+
+
+
+
+
+
+

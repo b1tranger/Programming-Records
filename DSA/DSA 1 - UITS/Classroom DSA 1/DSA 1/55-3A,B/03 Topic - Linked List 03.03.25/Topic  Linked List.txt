@@ -1,0 +1,5 @@
+Topic : Linked List
+
+Helpful Tutorial for singly linked list : https://youtube.com/playlist?list=PLBlnK6fEyqRi3-lvwLGzcaquOs5OBTCww&si=Ba1kqXlX4uAsYKyT
+
+The uploaded PDF can be a helpful resource beside the book. PDF was originally created by - ASM Sir.

@@ -1,0 +1,15 @@
+Dear Students,
+
+Based on your request, the Lab Test Midterm has been rescheduled to 08 April 2025, after the Eid vacation. This change was made as per your preference, so now it’s your responsibility to keep your word and attend the test on that day.
+Please remember: This is the final schedule. If you miss the test, there will be no second chance or rescheduling. So, be prepared and make sure you don’t miss it!
+
+Midterm Lab Test Details:
+Date: 08-04-2025 [First class after Eid vacation]
+Test Score Distribution:
+Lab Test: 15 marks
+Quiz: 10 marks
+Syllabus:
+Time Complexity Analysis
+1D , 2D Array related problems
+Linear Search, Binary Search, Prefix Matrix
+Insertion Sort, Selection and Bubble Sort

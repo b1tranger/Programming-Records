@@ -1,0 +1,12 @@
+Topic: Queue, Dequeue, Priority Queue
+
+Major Source for queue and dequeue   : Queue by ASM.pdf [attached here]
+
+Helpful Tutorial : 
+0. https://www.youtube.com/watch?v=zp6pBNbUB2U&t=27s
+1. https://www.youtube.com/watch?v=YqrFeU90Coo
+2. https://www.youtube.com/watch?v=dn01XST9-bI&t=506s
+4. https://www.youtube.com/watch?v=pqg0SOPRlJ4&t=581s
+5. https://www.youtube.com/watch?v=WJres9mgiAk&t=392s
+
+Warning : The Youtube videos are provided in case you miss the class or you feel you have some lacking in understanding. You have to read the book MUST and you have to follow the book's pattern while answering in exam!!!

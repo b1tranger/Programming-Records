@@ -1,0 +1,11 @@
+Topic : Array
+
+Row-Major order and Column-Major order of 2D array (Concept) : https://www.youtube.com/watch?v=b5lYGvcBjy4
+- Spacial Locality
+- "Storage order makes a significant difference in execution time"
+- Contiguous = moves faster
+- Formulas for Row Major Order and Column Major Order
+
+
+Location of an element of a 2D array : 
+https://www.youtube.com/watch?v=MJZd6uPi88E

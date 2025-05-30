@@ -1,0 +1,18 @@
+﻿Topic - Tree 
+
+
+Content - Tree -  Data Structures Fundamentals by Md. Rafiqul Islam (https://drive.google.com/file/d/1aKdRFvSBLKRFqsCFteER3ptJAdWQSxPn/view?usp=sharing)
+Huffman Coding - Lecture-Tree.pdf
+
+
+Helpful tutorials - 
+Construction, Addition, and Deletion of BST - https://www.youtube.com/watch?v=cySVml6e_Fc
+Heap - https://www.youtube.com/watch?v=uuot9ItgTEI
+Construct Heap - https://www.youtube.com/watch?v=KzXpfxRzVQM
+Huffman Coding - https://www.youtube.com/watch?v=co4_ahEDCho
+
+
+Note -
+
+
+Books will be considered the primary resource. YouTube tutorials are supplemental and may only be used for additional help in understanding concepts. Any mistakes in the tutorials will not be considered in the exam, nor can they be used as justification for errors. Watch the tutorials at your own discretion.

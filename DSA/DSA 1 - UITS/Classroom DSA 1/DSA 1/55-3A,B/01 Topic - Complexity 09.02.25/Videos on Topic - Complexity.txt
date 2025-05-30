@@ -1,0 +1,4 @@
+Topic - Complexity
+Understanding basic Asymptotic notation - https://www.youtube.com/watch?v=XMUe3zFhM5c
+
+Detailed Asymptotic notation -  https://www.youtube.com/watch?v=0oDAlMwTrLo

@@ -1,0 +1,17 @@
+- first get a visual explanation (not the codes)
+- then see the codes and try to relate with the visual explanation
+- you will need to memorise the algorithms eventually, so don't bother about it
+
+
+figured it out after getting fked in the labtest 1
+
+----------------------------------------------------------
+
+after final labtest realizations (didn't go well):
+
+
+make a topic list > ask gpt for code > see algorithm (book) > write code on codeblocks
+
+GPT is the way to go. (not for cheating)
+Memorization is gay.
+Practice makes perfect.
