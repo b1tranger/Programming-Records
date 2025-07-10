@@ -1,4 +1,9 @@
 
+# Contents
+- [output methods](#output-methods)
+
+---
+# [output methods](#contents)
 Yes, there are several other printing/output methods in JavaScript besides console.log():
 
 # Console Methods:
