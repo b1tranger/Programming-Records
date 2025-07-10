@@ -92,67 +92,74 @@ Here are the main syntax options for user input in JavaScript:
 ## Browser Environment:
 
 // 1. prompt() - Simple text input dialog
-`const userName = prompt("Enter your name:");`
-`console.log("Hello, " + userName);`
+
+    const userName = prompt("Enter your name:");
+    console.log("Hello, " + userName);
 
 // 2. prompt() with default value
-`const age = prompt("Enter your age:", "25");`
-`console.log("You are " + age + " years old");`
+
+    const age = prompt("Enter your age:", "25");
+    console.log("You are " + age + " years old");
 
 // 3. confirm() - Yes/No dialog (returns true/false)
-`const isReady = confirm("Are you ready to continue?");
-if (isReady) {
-    console.log("Let's proceed!");
-} else {
-    console.log("Take your time!");
-}`
+
+    const isReady = confirm("Are you ready to continue?");
+    if (isReady) {
+        console.log("Let's proceed!");
+    } else {
+        console.log("Take your time!");
+    }
 
 // 4. HTML form input (more common in web apps)
 // HTML: <input type="text" id="userInput" placeholder="Enter text">
 // JavaScript:
-`const inputElement = document.getElementById('userInput');
-const userValue = inputElement.value;`
+
+    const inputElement = document.getElementById('userInput');
+    const userValue = inputElement.value;
 
 // 5. Event-based input handling
-`document.addEventListener('DOMContentLoaded', () => {
-    const input = document.getElementById('userInput');
-    input.addEventListener('input', (event) => {
-        console.log("User typed:", event.target.value);
+
+    document.addEventListener('DOMContentLoaded', () => {
+        const input = document.getElementById('userInput');
+        input.addEventListener('input', (event) => {
+            console.log("User typed:", event.target.value);
+        });
     });
-});`
 
 ## Node.js Environment:
 
 // Using readline module
-`const readline = require('readline');
 
-const rl = readline.createInterface({
-    input: process.stdin,
-    output: process.stdout
-});
-
-rl.question('What is your name? ', (answer) => {
-    console.log(`Hello, ${answer}!`);
-    rl.close();
-});`
-
-// Using process.stdin directly
-`process.stdin.setEncoding('utf8');
-console.log('Enter some text:');
-process.stdin.on('data', (data) => {
-    console.log('You entered:', data.trim());
-    process.exit();
-});`
-
-## Modern Async/Await Pattern (Node.js):
-
-`const readline = require('readline');
-
-function askQuestion(question) {
+    const readline = require('readline');
+    
     const rl = readline.createInterface({
         input: process.stdin,
         output: process.stdout
     });
+    
+    rl.question('What is your name? ', (answer) => {
+        console.log(`Hello, ${answer}!`);
+        rl.close();
+    });
+
+// Using process.stdin directly
+
+    process.stdin.setEncoding('utf8');
+    console.log('Enter some text:');
+    process.stdin.on('data', (data) => {
+        console.log('You entered:', data.trim());
+        process.exit();
+    });
+
+## Modern Async/Await Pattern (Node.js):
+
+    const readline = require('readline');
+    
+    function askQuestion(question) {
+        const rl = readline.createInterface({
+            input: process.stdin,
+            output: process.stdout
+        });
     
     return new Promise((resolve) => {
         rl.question(question, (answer) => {
@@ -160,16 +167,16 @@ function askQuestion(question) {
             resolve(answer);
         });
     });
-}
-
-async function getUserInput() {
-    const name = await askQuestion('What is your name? ');
-    const age = await askQuestion('What is your age? ');
+    }
     
-    console.log(`Hello ${name}, you are ${age} years old!`);
-}
-
-getUserInput();`
+    async function getUserInput() {
+        const name = await askQuestion('What is your name? ');
+        const age = await askQuestion('What is your age? ');
+        
+        console.log(`Hello ${name}, you are ${age} years old!`);
+    }
+    
+    getUserInput();
 
 --- 
 
