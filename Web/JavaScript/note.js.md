@@ -27,10 +27,10 @@ Yes, there are several other printing/output methods in JavaScript besides conso
 `console.table([{name: "John", age: 25}, {name: "Jane", age: 30}]);`
 
 // Group related messages
-`console.group("User Details");
-console.log("Name: John");
-console.log("Age: 25");
-console.groupEnd();`
+`console.group("User Details");`
+`console.log("Name: John");`
+`console.log("Age: 25");`
+`console.groupEnd();`
 
 // Clear console
 `console.clear();`
