@@ -1,7 +1,7 @@
 
 # Contents
 - [output methods](#output-methods)
-- input methods
+- [input methods](#input-methods)
 
 ---
 # [output methods](#contents)
@@ -85,7 +85,7 @@ Note: console.log() is the most commonly used method for debugging and general o
 
 
 
-# input methods
+# [input methods](#contents)
 
 Here are the main syntax options for user input in JavaScript:
 
