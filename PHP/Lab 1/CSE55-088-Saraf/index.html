@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        a {
+            color: white;
+            text-decoration: none;
+            ;
+        }
+
+        #sidebar {
+            position: absolute;
+            left: 0;
+            margin: 1rem;
+            top: 20vh;
+            border-right: 1px solid white;
+            padding-right: 1rem;
+        }
+
+        #sidebar li {
+            padding: 5px;
+            transition: .2s ease;
+        }
+
+        #sidebar li:hover {
+            transform: scale(1.1);
+            /* transform: translateY(-3px); */
+        }
+
+        #sidebar li a {
+            padding: .2rem;
+            border-radius: 5px;
+            background-color: rgba(255, 255, 255, 0.192);
+            /* transition: .2s ease; */
+        }
+
+        /* ----------------------------------------------- */
+        .container {
+            display: flex;
+            flex-direction: column;
+        }
+
+
+
+        /* ----------------------------------------------- */
+        #title {
+            height: 100vh;
+        }
+
+        /* ----------------------------------------------- */
+        .cv-container {
+            height: 100vh;
+        }
+
+        .text-card {
+            margin-top: 20vh;
+            max-width: 80vw;
+            text-align: center;
+            text-wrap: wrap;
+        }
+
+        /* ----------------------------------------------- */
+
+        #navbar {
+            display: none;
+            position: sticky;
+            bottom: 20px;
+
+        }
+
+        #navbar li {
+            display: inline;
+            padding: .5rem;
+            margin: .5rem;
+            background-color: rgba(255, 255, 255, 0.192);
+            border-radius: 5px;
+        }
+
+        @media (max-width:650px) {
+            #sidebar {
+                display: none;
+            }
+
+            #navbar {
+                display: block;
+            }
+        }
+    </style>
+</head>
+
+<body style="background-color: #333;color: white;">
+    <div class="container">
+        <div id="sidebar">
+            <ul>
+                <li><a href="#title">Title</a></li>
+                <li><a href="#intro">Intro</a></li>
+                <!-- <li><a href=""></a></li> -->
+                <!-- <li><a href=""></a></li> -->
+            </ul>
+        </div>
+        <div id="title" style="margin: auto;text-align: center;">
+            <div class="text-card" style="margin-top: 20vh;">
+                <h1> b1tranger's first IP Lab</h1>
+                <hr
+                    style="margin-top: -10px;height:5px;background-color: white;max-width: 300px;width:90%;border-radius: 50px;">
+            </div>
+        </div>
+
+
+        <div class="cv-container">
+            <div id="intro" style="margin: auto;text-align: center;">
+                <div class="text-card">
+                    <h1>This is my CV??</h1>
+                    <p>
+                        Hello!<br>
+                        I am Gaus Saraf Murady, known as b1tranger Online.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div id="navbar">
+            <hr style="height:5px;background-color: white;max-width: 300px;width:90%;border-radius: 50px;">
+            <div style="width: 400px;margin: auto;padding-inline-start: 20px;">
+                <ul>
+                    <li><a href="#title">Title</a></li>
+                    <li><a href="#intro">Intro</a></li>
+                    <!-- <li><a href=""></a></li> -->
+                    <!-- <li><a href=""></a></li> -->
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
