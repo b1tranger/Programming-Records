@@ -20,7 +20,7 @@ vector<int> jobScheduling(vector<int> &profit, vector<int> &deadline)
     for(int i = 0; i<n; i++)
     {
         int start = min(n, job[i].second)-1;
-        for(int j = 0; j<n; j++)
+        for(int j = start; j >= 0; j--)     // right to left
         {
             if(slot[j]==0)
             {
