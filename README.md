@@ -5,3 +5,5 @@
 # \# Resources
 - ykw problemset [problemset_07.05.25_CJ.pdf](https://github.com/user-attachments/files/24408256/problemset_07.05.25_CJ.pdf)
 
+# \# Related
+- https://github.com/b1tranger/python_G_colab
