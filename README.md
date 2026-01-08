@@ -5,9 +5,9 @@
 # \# Resources
 - ykw problemset [problemset_07.05.25_CJ.pdf](https://github.com/user-attachments/files/24408256/problemset_07.05.25_CJ.pdf)
 
-# \# Related
-- Learning PHP/Laravel https://github.com/b1tranger/learning-php-laravel
-- Learning Python https://github.com/b1tranger/python_G_colab
+# \# Related Programming Repositories
+- [Learning PHP & Laravel](https://github.com/b1tranger/learning-php-laravel) &larr; [[gist]](https://gist.github.com/b1tranger/292f29de25c56a830cc19762445642c8)
+- [Learning Python](https://github.com/b1tranger/python_G_colab) &larr; [[ gist ]](https://gist.github.com/b1tranger/65c517847062857ac68ea6c83a214ac0)
 - https://github.com/b1tranger/game-made-with-antigravity
 - https://github.com/b1tranger/b1t.python-script-practice
 - https://github.com/b1tranger/Programming-Hub
