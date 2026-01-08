@@ -1,0 +1,4 @@
+7. Create a PHP form to search a book by title or author in a library database
+
+2. Write a function that generates a random password of a given length including letters, digits, and symbols.
+
