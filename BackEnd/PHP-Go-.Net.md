@@ -166,3 +166,57 @@ Below are the official documentation links and resources used to define these la
 * **[Roadmap.sh - Backend Developer](https://roadmap.sh/backend):** A visual comparison of how these languages fit into the backend ecosystem.
 
 Would you like me to create a more specific comparison, such as how each of these handles a database connection (SQL)?
+
+---
+
+> can I put Go, .Net in the backend category for simplicity?
+
+Yes, you absolutely can. For **90% of web development conversations**, putting Go and .NET in the "Backend" category is not only simpler but also more accurate for how they are used in the industry today.
+
+While the technical distinctions I mentioned earlier (compiled vs. managed) are important for computer science, the **Functional Category** is what matters when building a product.
+
+---
+
+## The "Functional" Stack
+
+If you are looking at a typical web project, the roles are usually divided like this:
+
+* **Frontend:** HTML, CSS, JavaScript (React, Vue, etc.) — *Everything the user sees.*
+* **Backend:** **PHP, Go, .NET, Node.js, Python** — *Everything the server does (logic, database, security).*
+
+---
+
+## Why we call them "Backend" (even if they do more)
+
+Even though Go and .NET *can* build desktop apps or system tools, they are primarily categorized as Backend because of their **"Server-Side" capabilities**:
+
+1. **Request Handling:** Both have world-class libraries for listening to HTTP requests and sending responses.
+2. **Database Integration:** They have mature systems (like GORM for Go or Entity Framework for .NET) to talk to SQL/NoSQL databases.
+3. **Security:** They handle the "heavy lifting" of authentication and data validation that you cannot trust the Frontend (browser) to do.
+4. **Performance:** Go and .NET are often chosen for the backend specifically because they handle high traffic much more efficiently than PHP or Python.
+
+### A Simple "Mental Map" for You
+
+If you are organizing your learning or a resume, this is a very standard way to group them:
+
+| Role | Languages / Frameworks |
+| --- | --- |
+| **Frontend** | JavaScript, TypeScript, CSS |
+| **Backend (Scripting)** | PHP, Python, Ruby |
+| **Backend (High Performance)** | **Go, .NET, Java** |
+| **Systems** | C++, Rust |
+
+---
+
+## Summary
+
+You are perfectly safe calling them **Backend Languages**. Most recruiters, senior developers, and job descriptions will categorize them exactly that way.
+
+**References:**
+
+* **[Stack Overflow Developer Survey](https://survey.stackoverflow.co/2025/):** Shows how developers categorize themselves (e.g., "Full-stack," "Back-end") and the languages they use.
+* **[MDN Web Docs: Backend Basics](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction):** Defines the role of server-side programming in the web ecosystem.
+
+Would you like to see how a "Hello World" web server looks in Go or .NET compared to a simple PHP script to see that "Backend" similarity in action?
+
+---
