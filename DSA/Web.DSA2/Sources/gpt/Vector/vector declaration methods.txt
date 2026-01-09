@@ -1,0 +1,45 @@
+To declare a std::vector in C++, the <vector> header must be included. Several methods exist for declaration and 
+
+# initialization: Empty Vector Declaration.
+
+This declares an empty vector that can grow dynamically as elements are added.
+C++
+
+    std::vector<int> myVector; 
+
+# Declaration with Initial Size.
+
+This declares a vector with a specified initial size, and all elements are value-initialized (e.g., 0 for integers, empty string for std::string).
+C++
+
+    std::vector<double> scores(10); // A vector of 10 doubles, initialized to 0.0
+
+# Declaration with Initial Size and Value.
+
+This declares a vector with a specified initial size, and all elements are initialized to a given value.
+C++
+
+    std::vector<char> letters(5, 'A'); // A vector of 5 chars, all 'A'
+
+# Declaration using an Initializer List.
+
+This allows direct initialization with a set of values.
+C++
+
+    std::vector<std::string> fruits = {"apple", "banana", "cherry"};
+
+# Declaration by Copying Another Vector.
+
+A new vector can be declared and initialized as a copy of an existing vector.
+C++
+
+    std::vector<int> original = {1, 2, 3};
+    std::vector<int> copiedVector = original;
+
+# Declaration from a Range of Iterators.
+
+A vector can be constructed from a range defined by two iterators (e.g., from another container or an array).
+C++
+
+    int arr[] = {10, 20, 30, 40};
+    std::vector<int> fromArray(std::begin(arr), std::end(arr));

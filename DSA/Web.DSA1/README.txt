@@ -1,0 +1,1 @@
+Notes from Videos are in "Video" Folders for each Topic

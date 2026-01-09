@@ -1,0 +1,16 @@
+ 
+//	https://www.geeksforgeeks.org/dsa/job-sequencing-problem/
+   // in decreasing order
+    sort(jobs.begin(), jobs.end(), 
+                greater<pair<int, int>>());
+
+   // Sort items based on value-to-weight ratio in descending 
+order
+    sort(items.begin(), items.end(), compare);
+
+// Comparison function to sort items based on value/weight ratio
+ bool compare(vector<int>& a, vector<int>& b) {
+    double a1 = (1.0 * a[0]) / a[1];
+    double b1 = (1.0 * b[0]) / b[1];
+    return a1 > b1;
+ }

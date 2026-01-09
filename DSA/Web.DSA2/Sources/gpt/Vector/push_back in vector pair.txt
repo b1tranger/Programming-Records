@@ -1,0 +1,6 @@
+
+// https://www.geeksforgeeks.org/dsa/job-sequencing-problem/
+    vector<pair<int, int>> jobs;
+    for (int i = 0; i < n; i++) {
+        jobs.push_back({profit[i], deadline[i]});
+    }
