@@ -13,6 +13,9 @@ Serverless architecture is built on two main pillars:
 * **FaaS (Function as a Service):** You write a small block of code (a "function") that does one specific thing, like resizing an image or checking a password. This code only runs when it is "triggered" by an event.
 * **BaaS (Backend as a Service):** You use third-party services for heavy lifting like databases (Firebase, DynamoDB) or authentication (Auth0), so you don't have to build those systems from scratch.
 
+<img width="3000" height="2500" alt="image" src="https://github.com/user-attachments/assets/32c1389c-fdfd-4ab0-ab0b-d34ac5a25972" />
+
+
 ### Key Characteristics:
 
 1. **Zero Management:** No patching OS, no hardware to worry about.
@@ -48,6 +51,8 @@ Chatbots are often idle. Using serverless ensures you aren't paying for server u
 ---
 
 ## 3. Serverless vs. Traditional Hosting
+
+<img width="2048" height="1920" alt="image" src="https://github.com/user-attachments/assets/1f807f4f-4f1a-451f-abff-ca6d3be8f4a8" />
 
 | Feature | Traditional (VPS/Dedicated) | Serverless (Lambda/Functions) |
 | --- | --- | --- |
