@@ -10,8 +10,8 @@
 | Category | Repository | related Gist |
 |---|---| --- |
 | Programming | [Learning Python](https://github.com/b1tranger/python_G_colab) | [My python learning record](https://gist.github.com/b1tranger/65c517847062857ac68ea6c83a214ac0) |
-| " | [Programming-Hub](https://github.com/b1tranger/Programming-Hub) | |
-| " | [programming-with-bros](https://github.com/b1tranger/programming-with-bros) | |
+| " | [Programming-Hub](https://github.com/b1tranger/b1t.UITS-Programming-Hub) | |
+| " | [programming-with-bros](https://github.com/b1tranger/b1t.programming-with-bros) | |
 | " | [spck-test](https://github.com/b1tranger/spck-test) | |
 | Academic | [CSE0613122-OOP-Lab](https://github.com/b1tranger/CSE0613122-OOP-Lab) | |
 | " | [CSE0612216-DBMS-Lab](https://github.com/b1tranger/CSE0612216-DBMS-Lab) | |
