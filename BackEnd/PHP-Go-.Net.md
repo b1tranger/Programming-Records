@@ -184,6 +184,8 @@ If you are looking at a typical web project, the roles are usually divided like 
 * **Frontend:** HTML, CSS, JavaScript (React, Vue, etc.) — *Everything the user sees.*
 * **Backend:** **PHP, Go, .NET, Node.js, Python** — *Everything the server does (logic, database, security).*
 
+<img width="3200" height="3000" alt="image" src="https://github.com/user-attachments/assets/29768d06-d164-42ac-a591-327e020c9951" />
+
 ---
 
 ## Why we call them "Backend" (even if they do more)
