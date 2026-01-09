@@ -101,7 +101,7 @@ ekta function jei type er oi type er value return korte hoi
 program if(map == req) oikhan theke e return hoitase
 <br>[00:56, 10/01/2026] b1tranger: alright
 
-```
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
