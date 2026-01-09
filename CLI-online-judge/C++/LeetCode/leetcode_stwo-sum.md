@@ -39,15 +39,15 @@ public:
         map<int, int>mp;
         int n = nums.size();
         for(int i = 0; i < n; i++) {
-            int req = target - nums<br>[i];
+            int req = target - nums[i];
 
             if(mp.find(req) != mp.end()) {
                 for(int j = i - 1; j >= 0; j--) {
-                    if(nums<br>[j] == req) return {i, j};
+                    if(nums[j] == req) return {i, j};
                 }
             }
 
-            mp<br>[nums<br>[i]]++;
+            mp[nums[i]]++;
         }
         return {0, 0};
     }
@@ -63,6 +63,18 @@ you jave started your journey in Leetcode, if I am not wrong
 <br>[19:36, 09/01/2026] b1tranger: All Hail Anik sir
 <br>[19:36, 09/01/2026] chatok-jnr: kono ekta jinish visualization korte para mani e ami jinish ta feel korte partasi
 <br>[19:36, 09/01/2026] b1tranger: DSA 2 te ar kichu na shikhleo eta shikhsi
+
+<img width="654" height="478" alt="image" src="https://github.com/user-attachments/assets/cef80b50-3fb1-4b83-9a54-5ddaeb8f4840" />
+
+<br>[23:43, 09/01/2026] b1tranger: ekhane return ki necessary? print kore dile hobena?
+<br>[00:16, 10/01/2026] An Nazmus Sakib (UITS B52) (chatok junior): question poro
+oikhane ki bolse
+<br>[00:16, 10/01/2026] An Nazmus Sakib (UITS B52) (chatok junior): oikhane kintu bolse e return korar jonno
+<br>[00:17, 10/01/2026] An Nazmus Sakib (UITS B52) (chatok junior): last er line e return korar karon hoitase
+ekta function jei type er oi type er value return korte hoi
+<br>[00:17, 10/01/2026] An Nazmus Sakib (UITS B52) (chatok junior): program kintu asole ei porjonto astase e nah
+program if(map == req) oikhan theke e return hoitase
+<br>[00:56, 10/01/2026] b1tranger: alright
 
 
 
