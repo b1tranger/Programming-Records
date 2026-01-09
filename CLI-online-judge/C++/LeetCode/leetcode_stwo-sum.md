@@ -151,7 +151,7 @@ int main()
 
 <img width="478" height="337" alt="image" src="https://github.com/user-attachments/assets/bf6a0dff-353b-4aad-ab7e-199697a51c51" />
 
-<img width="446" height="416" alt="image" src="https://github.com/user-attachments/assets/fa4f91f7-e7fe-4459-8b24-de5adfb9f7bc" />
+<br><img width="446" height="416" alt="image" src="https://github.com/user-attachments/assets/fa4f91f7-e7fe-4459-8b24-de5adfb9f7bc" />
 
 <br>[02:45, 10/01/2026] b1tranger: ami first e pair<int,int> baniye function call korechilam
 <br>[02:46, 10/01/2026] b1tranger: { i , j }  mane ki vector er first 2 ta index?
