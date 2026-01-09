@@ -9,6 +9,31 @@ Solution Section with a snippet: <br> <img width="499" height="238" alt="image" 
 <br>[chatok-jnr](https://github.com/chatok-jnr):
 
 
+<br>[10:50, 09/01/2026] b1tranger: looks simple
+<br>[10:51, 09/01/2026] chatok-jnr: Map diye e to kora jabe i guess
+<br>[10:52, 09/01/2026] chatok-jnr: Target - ai
+
+Ei value ki exist kore kina just ota dekhte hobe
+
+So basically sob number er frequency rekhe dibo map er modde
+<br>[10:52, 09/01/2026] b1tranger: ami nested loop chinta akortesilam
+<br>[10:52, 09/01/2026] chatok-jnr: Pc te bosle implement korbone
+<br>[10:52, 09/01/2026] chatok-jnr: 10^8
+<br>[10:52, 09/01/2026] b1tranger: breh
+<br>[10:53, 09/01/2026] b1tranger: time limit to deynai
+<br>[10:53, 09/01/2026] chatok-jnr: Array size 10^4
+<br>[10:53, 09/01/2026] chatok-jnr: Tarpor o map diye kora onek fast hobe
+<br>[10:53, 09/01/2026] chatok-jnr: N * log(N).   < N^2
+<br>[10:53, 09/01/2026] b1tranger: hae, eta maybe alternative ta
+<br>[10:54, 09/01/2026] chatok-jnr: Easy category dekhe e 10^4 dise
+<br>[10:54, 09/01/2026] chatok-jnr: Ar na hoi 10^5 diye dito
+<br>[10:55, 09/01/2026] chatok-jnr: CF: 800
+<br>[10:56, 09/01/2026] b1tranger: just right for me
+<br>[10:56, 09/01/2026] b1tranger: :3
+<br>[10:56, 09/01/2026] chatok-jnr: Map er jaigai kodi 
+<br>Gp_hash with custom hashing use kori tahole aro fast hobe
+
+
 <br>[10:59, 09/01/2026] b1tranger: wait, ekhane ami array er size nicchina keno
 <br>[11:00, 09/01/2026] chatok-jnr: Ora tomake to inout newqr kono option dobe nah
 <br>[11:02, 09/01/2026] b1tranger: ??
