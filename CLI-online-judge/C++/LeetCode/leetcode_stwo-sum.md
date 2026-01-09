@@ -67,14 +67,118 @@ you jave started your journey in Leetcode, if I am not wrong
 <img width="654" height="478" alt="image" src="https://github.com/user-attachments/assets/cef80b50-3fb1-4b83-9a54-5ddaeb8f4840" />
 
 <br>[23:43, 09/01/2026] b1tranger: ekhane return ki necessary? print kore dile hobena?
-<br>[00:16, 10/01/2026] An Nazmus Sakib (UITS B52) (chatok junior): question poro
+<br>[00:16, 10/01/2026] chatok-jnr: question poro
 oikhane ki bolse
-<br>[00:16, 10/01/2026] An Nazmus Sakib (UITS B52) (chatok junior): oikhane kintu bolse e return korar jonno
-<br>[00:17, 10/01/2026] An Nazmus Sakib (UITS B52) (chatok junior): last er line e return korar karon hoitase
+<br>[00:16, 10/01/2026] chatok-jnr: oikhane kintu bolse e return korar jonno
+<br>[00:17, 10/01/2026] chatok-jnr: last er line e return korar karon hoitase
 ekta function jei type er oi type er value return korte hoi
-<br>[00:17, 10/01/2026] An Nazmus Sakib (UITS B52) (chatok junior): program kintu asole ei porjonto astase e nah
+<br>[00:17, 10/01/2026] chatok-jnr: program kintu asole ei porjonto astase e nah
 program if(map == req) oikhan theke e return hoitase
 <br>[00:56, 10/01/2026] b1tranger: alright
+
+```
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        //    int sum = 0;
+        vector<int> ans;
+
+        for (int i = 0; i < nums.size() - 1; i++) {
+            for (int j = i + 1; j < nums.size(); j++) {
+                if (nums[i] + nums[j] == target) {
+                   ans = {i,j}; 
+                }
+            }
+        }
+        return ans;
+    }
+};
+
+int main()
+{
+    vector<int> nums,ans;
+    int target;
+    int n;
+    cin >> n;
+    int x;
+    for (int i = 0; i < n; i++)
+    {
+        cin >> x;
+        nums.push_back(x);
+    }
+    Solution obj;
+     ans = obj.twoSum(nums, target);
+    // for (int i = 0; i < n; i++)
+    // {
+    //     //        cin >> x;
+    //     //        nums.push_back(x);
+    //     cout << nums[i] << " ";
+    // }
+
+    return 0;
+}
+```
+<br>[02:41, 10/01/2026] b1tranger: nise
+<br>[02:41, 10/01/2026] b1tranger: leetcode submission e main ekta hidden thake it seems
+
+<img width="478" height="337" alt="image" src="https://github.com/user-attachments/assets/bf6a0dff-353b-4aad-ab7e-199697a51c51" />
+
+<img width="446" height="416" alt="image" src="https://github.com/user-attachments/assets/fa4f91f7-e7fe-4459-8b24-de5adfb9f7bc" />
+
+<br>[02:45, 10/01/2026] b1tranger: ami first e pair<int,int> baniye function call korechilam
+<br>[02:46, 10/01/2026] b1tranger: { i , j }  mane ki vector er first 2 ta index?
+<br>[02:46, 10/01/2026] chatok-jnr: First 2 ta keno
+<br>[02:46, 10/01/2026] chatok-jnr: ith and jth index
+<br>[02:47, 10/01/2026] chatok-jnr: i can be any value betwenn 1 to n
+<br>[02:47, 10/01/2026] chatok-jnr: So as j
+<br>[02:47, 10/01/2026] chatok-jnr: But 
+<br>i != j
+
+<img width="187" height="142" alt="image" src="https://github.com/user-attachments/assets/17d05350-c0a4-45c8-b9f0-92a577096227" />
+
+<br>[02:48, 10/01/2026] b1tranger: mane, ami to shebhabe value return korchi
+
+return hoye store hocche kibhabe?
+<br>[02:48, 10/01/2026] chatok-jnr: Oita leetcode er bisoy
+<br>Ora eta niye kibBe store korbe
+<br>[02:49, 10/01/2026] b1tranger: amar code ta dekhen
+<br>[02:49, 10/01/2026] chatok-jnr: vector<int> x = twoSum(....)
+<br>[02:49, 10/01/2026] b1tranger: amar code e ki hocche sheta ektu bolen
+<br>[02:49, 10/01/2026] chatok-jnr: Jehetu tumi vector return kortaso tahole oitake ekta vector a e store korbe
+<br>[02:50, 10/01/2026] b1tranger: so, {1,2} return korle ekta empty vector er first 2 ta index e store korbe?
+<br>[02:50, 10/01/2026] chatok-jnr: He
+<br>[02:50, 10/01/2026] b1tranger: erpor kichu store korte gele, or dhoren, return korlam same vector e
+
+tokhon ki 3rd ar 4th e store korbe naki first 2 ta index overwrite korbe?
+<br>[02:50, 10/01/2026] chatok-jnr: Replace hoye jabe
+<br>[02:51, 10/01/2026] b1tranger: interesting
+<br>[02:51, 10/01/2026] chatok-jnr: vector x ke
+<br>Mono koro
+
+int x
+<br>[02:51, 10/01/2026] chatok-jnr: Ekhon tumi x er modde joto bar function call korba totbar e to eta change hobe
+<br>[02:51, 10/01/2026] chatok-jnr: overwrite
+
+<br>[02:52, 10/01/2026] chatok-jnr: vector<int>x(10),y(5);
+
+x = y
+
+Eta kintu possible 
+<br>Ei khetre x hoye jabe y er ekta carbon copy
+
+abr swap(x,y)
+<br>Ei Operation o possible
+<br>[02:53, 10/01/2026] chatok-jnr: Cause duita e to vector of int
+<br>[02:54, 10/01/2026] b1tranger: bracket e to size bujhae, 2ta different size er vector swap korbe kibhabe?
+
+naki vector er size dynamic hoy bole emonta possible?
+<br>[02:54, 10/01/2026] chatok-jnr: dynamic bole e possible
+<br>[02:55, 10/01/2026] chatok-jnr: Behind the scene ki hoi ta jani nah tobe eta kaj kore
+<br>Emon hote pare je
+<br>Duitar memory location just swap kore dei behind the scence
 
 
 
