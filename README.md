@@ -20,6 +20,7 @@
 | " | [CSE0613124-WAD-Lab](https://github.com/b1tranger/CSE0613124-WAD-Lab) | |
 | Development | [Learning PHP & Laravel](https://github.com/b1tranger/learning-php-laravel) | [Learning PHP in CLI](https://gist.github.com/b1tranger/292f29de25c56a830cc19762445642c8) |
 |"| [learning-js-framework](https://github.com/b1tranger/learning-js-framework) ||
+|"| [learning-API](https://github.com/b1tranger/learning-API)||
 | " | [game-made-with-antigravity](https://github.com/b1tranger/game-made-with-antigravity) | |
 | " | [2D-Game_DSA-project](https://github.com/b1tranger/2D-Game_DSA-project) | |
 | " | [Game-Development-Journey](https://github.com/b1tranger/Game-Development-Journey) || 
