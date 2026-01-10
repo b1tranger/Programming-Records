@@ -13,6 +13,7 @@
     - The_Art_of_Doing_Science_and_Engineering - Hamming_1997
 - Videos
     - CS50 videos on YouTube (currently 2026 playlist)
+- [personal-dev-guides](https://github.com/b1tranger/personal-dev-guides)
 
 ## # Related Repositories
 
