@@ -1,5 +1,6 @@
-[ Repository created on 29th May 2025 ]
-
+> [ Repository created on 29th May 2025 ]
+# [⬇️](#%EF%B8%8F-1)
+---
 # # Programming Records
 
 ## # Resources
@@ -33,3 +34,6 @@
 | " | [2D-Game_DSA-project](https://github.com/b1tranger/2D-Game_DSA-project) | |
 | " | [Game-Development-Journey](https://github.com/b1tranger/Game-Development-Journey) || 
 | " | [b1t.python-script-practice](https://github.com/b1tranger/b1t.python-script-practice)||
+
+---
+# [⬆️](#%EF%B8%8F-1)
