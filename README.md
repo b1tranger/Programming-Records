@@ -1,6 +1,5 @@
 > [ Repository created on 29th May 2025 ]
 <!-- # [⬇️](#%EF%B8%8F-1) -->
----
 # # Programming Records
 
 ## # Related Repositories
