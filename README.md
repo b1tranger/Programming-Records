@@ -27,6 +27,9 @@
   </thead>
   <tbody>
     <tr>
+        <!-- #################################### -->
+        <!--        beware of the rowspans        -->
+        <!-- #################################### -->
       <td rowspan="4" valign="top">Programming</td>
       <td><a href="https://github.com/b1tranger/python_G_colab">Learning Python</a></td>
       <td><a href="https://gist.github.com/b1tranger/65c517847062857ac68ea6c83a214ac0">My python learning record</a></td>
@@ -74,7 +77,7 @@
       <td></td>
     </tr>
     <tr>
-      <td rowspan="5" valign="top">Development</td>
+      <td rowspan="6" valign="top">Development</td>
       <td><a href="https://github.com/b1tranger/learning-php-laravel">Learning PHP & Laravel</a></td>
       <td><a href="https://gist.github.com/b1tranger/292f29de25c56a830cc19762445642c8">Learning PHP in CLI</a></td>
       <td></td>
@@ -93,6 +96,11 @@
       <td><a href="https://github.com/b1tranger/Game-Development-Journey">Game-Development-Journey</a></td>
       <td></td>
       <td><a href="https://github.com/b1tranger/2D-Game_DSA-project">DSA-Project</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/b1tranger/learning-linux">learning-linux</a></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/b1tranger/learning-flutter">learning-flutter</a></td>
