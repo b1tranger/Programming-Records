@@ -36,4 +36,4 @@
 | " | [b1t.python-script-practice](https://github.com/b1tranger/b1t.python-script-practice)||
 
 ---
-# [⬆️](#%EF%B8%8F-1)
+# [⬆️](#%EF%B8%8F)
