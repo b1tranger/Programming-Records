@@ -112,7 +112,7 @@
     - Art of Programming [link](https://t.me/b1tranger_stash/20?comment=531)
     - The_Art_of_Doing_Science_and_Engineering - Hamming_1997 [link](https://t.me/b1tranger_stash/20?comment=530)
 - Videos
-    - CS50 videos on YouTube (currently 2026 playlist)
+    - [CS50 videos on YouTube (currently 2026 playlist)](https://youtube.com/playlist?list=PLhQjrBD2T380hlTqAU8HfvVepCcjCqTg6) 
 - [personal-dev-guides](https://github.com/b1tranger/personal-dev-guides)
 
 
