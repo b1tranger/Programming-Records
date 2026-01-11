@@ -64,7 +64,7 @@
       <td></td>
     </tr>
     <tr>
-      <td rowspan="6" valign="top">Development</td>
+      <td rowspan="7" valign="top">Development</td>
       <td><a href="https://github.com/b1tranger/learning-php-laravel">Learning PHP & Laravel</a></td>
       <td><a href="https://gist.github.com/b1tranger/292f29de25c56a830cc19762445642c8">Learning PHP in CLI</a></td>
       <td></td>
@@ -91,6 +91,11 @@
     </tr>
     <tr>
       <td><a href="https://github.com/b1tranger/learning-flutter">learning-flutter</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+        <tr>
+      <td><a href="https://github.com/b1tranger/learning-gui-client">learning-gui-client</a></td>
       <td></td>
       <td></td>
     </tr>
