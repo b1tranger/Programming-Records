@@ -109,6 +109,7 @@
 - Readings
   - [VScodeSettings.md](https://gist.github.com/b1tranger/947338764fb8b1bf9960567e7180e0f8)
   - [personal-dev-guides](https://github.com/b1tranger/personal-dev-guides)
+  - [GitHub_Concepts.md](https://gist.github.com/b1tranger/882ef843c42005b298106439891bc3dd)
 - Books (preference):
     - Discrete Mathematics [link](https://t.me/b1tranger_stash/20?comment=527)
     - Clean Code [link](https://t.me/b1tranger_stash/20?comment=538)
