@@ -87,7 +87,7 @@
     <tr>
       <td><a href="https://github.com/b1tranger/learning-linux">learning-linux</a></td>
       <td></td>
-      <td></td>
+      <td><a href="https://github.com/b1tranger/learning-cpp-extended/">learning-cpp-extended</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/b1tranger/learning-flutter">learning-flutter</a></td>
@@ -97,7 +97,7 @@
         <tr>
       <td><a href="https://github.com/b1tranger/learning-gui-client">learning-gui-client</a></td>
       <td></td>
-      <td></td>
+      <td><a href="https://github.com/b1tranger/learning-cpp-extended/">learning-cpp-extended</a></td>
     </tr>
   </tbody>
 </table>
