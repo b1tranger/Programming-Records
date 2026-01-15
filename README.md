@@ -112,7 +112,7 @@
 - Problems
   - https://exercism.org/tracks &larr; [@monotheist](https://github.com/Monotheist0)
   - ykw problemset [problemset_07.05.25_CJ.pdf](https://github.com/user-attachments/files/24408256/problemset_07.05.25_CJ.pdf)
-  - [Assiut University Training - Newcomers](https://codeforces.com/group/MWSDmqGsZm) &larr; (SST/Tashfia Ma’am suggested)
+  - [Assiut University Training - Newcomers](https://codeforces.com/group/MWSDmqGsZm) &larr; ([@saimasiddique](https://github.com/saimasiddique) ma’am suggested)
 
 - Readings
   - [VScodeSettings.md](https://gist.github.com/b1tranger/947338764fb8b1bf9960567e7180e0f8)
