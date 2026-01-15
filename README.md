@@ -103,9 +103,14 @@
 </table>
 
 ## # Resources
-- Practice
+- Study
+  - https://github.com/phitronio
+
+- Problems
   - https://exercism.org/tracks &larr; [@monotheist](https://github.com/Monotheist0)
   - ykw problemset [problemset_07.05.25_CJ.pdf](https://github.com/user-attachments/files/24408256/problemset_07.05.25_CJ.pdf)
+  - [Assiut University Training - Newcomers](https://codeforces.com/group/MWSDmqGsZm) &larr; (SST/Tashfia Ma’am suggested)
+
 - Readings
   - [VScodeSettings.md](https://gist.github.com/b1tranger/947338764fb8b1bf9960567e7180e0f8)
   - [personal-dev-guides](https://github.com/b1tranger/personal-dev-guides)
@@ -117,6 +122,9 @@
     - The_Art_of_Doing_Science_and_Engineering - Hamming_1997 [link](https://t.me/b1tranger_stash/20?comment=530)
 - Videos
     - [CS50 videos on YouTube (currently 2026 playlist)](https://youtube.com/playlist?list=PLhQjrBD2T380hlTqAU8HfvVepCcjCqTg6) 
+  - https://www.cpsacademy.io/
+- App
+  - [Algorithm by Moniteru Ishida](https://play.google.com/store/apps/details?id=wiki.algorithm.algorithms)
 
 
 
