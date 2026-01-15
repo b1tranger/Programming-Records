@@ -103,6 +103,9 @@
 </table>
 
 ## # Resources
+- Reddit
+  - https://www.reddit.com/r/learnprogramming/
+  - https://www.reddit.com/r/cscareerquestions/
 - Study
   - https://github.com/phitronio
 
