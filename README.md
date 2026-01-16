@@ -112,7 +112,7 @@
 - Problems
   - https://exercism.org/tracks &larr; [@monotheist](https://github.com/Monotheist0)
   - https://youkn0wwho.academy/topic-list &larr; https://shahjalalshohag.com/
-  - [Assiut University Training - Newcomers](https://codeforces.com/group/MWSDmqGsZm) &larr; ([@saimasiddique](https://github.com/saimasiddique) ma’am suggested)
+  - [Assiut University Training - Newcomers](https://codeforces.com/group/MWSDmqGsZm) &larr; [@saimasiddique](https://github.com/saimasiddique)
   - [problemset_07.05.25_CJ.pdf](https://github.com/user-attachments/files/24408256/problemset_07.05.25_CJ.pdf)
 
 - Readings
