@@ -20,7 +20,7 @@
       <td rowspan="4" valign="top">Programming</td>
       <td><a href="https://github.com/b1tranger/python_G_colab">Learning Python</a></td>
       <td><a href="https://gist.github.com/b1tranger/65c517847062857ac68ea6c83a214ac0">My python learning record</a></td>
-      <td><a href="https://github.com/b1tranger/b1t.python-script-practice">b1t.python-script-practice</a></td>
+      <td><a href="https://github.com/b1tranger/b1t.python-script-practice">b1t.python-script-practice</a>, <a href="https://github.com/b1tranger/learning-API/blob/main/Bot/social-bot-1.md">social-bot</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/b1tranger/b1t.UITS-Programming-Hub">Programming-Hub</a></td>
