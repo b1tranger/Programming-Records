@@ -127,7 +127,9 @@
 - Videos
     - [CS50 videos on YouTube (currently 2026 playlist)](https://youtube.com/playlist?list=PLhQjrBD2T380hlTqAU8HfvVepCcjCqTg6) 
   - https://www.cpsacademy.io/
-  - [2026 trends by Fireship](https://youtu.be/EKOU3JWDNLI)<br>
+  - [2026 trends by Fireship](https://youtu.be/EKOU3JWDNLI)<br><img src="https://github.com/user-attachments/assets/60ee2c56-1c47-4c41-8a88-f6af1d4c4bc7" width=300px>
+
+  - [Stop following the crowd in tech Boot dev](https://www.youtube.com/watch?v=oIy5BnW5Qh8)
 - App
   - [Algorithm by Moniteru Ishida](https://play.google.com/store/apps/details?id=wiki.algorithm.algorithms)
 
