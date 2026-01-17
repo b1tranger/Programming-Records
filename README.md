@@ -127,6 +127,7 @@
 - Videos
     - [CS50 videos on YouTube (currently 2026 playlist)](https://youtube.com/playlist?list=PLhQjrBD2T380hlTqAU8HfvVepCcjCqTg6) 
   - https://www.cpsacademy.io/
+  - [2026 trends by Fireship](https://youtu.be/EKOU3JWDNLI)<br>
 - App
   - [Algorithm by Moniteru Ishida](https://play.google.com/store/apps/details?id=wiki.algorithm.algorithms)
 
