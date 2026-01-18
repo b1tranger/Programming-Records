@@ -104,7 +104,7 @@
 
 ## # Resources
 - Reddit
-  - [r/learnprogramming](https://www.reddit.com/r/learnprogramming/)
+  - [r/learnprogramming](https://www.reddit.com/r/learnprogramming/) | [new-member](https://www.reddit.com/r/learnprogramming/comments/61oly8/new_read_me_first/) , [FAQ](https://www.reddit.com/r/learnprogramming/wiki/faq/)
   - [r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/) : [index](https://www.reddit.com/r/cscareerquestions/wiki/index/) | [post/cs-as-career?-1](https://www.reddit.com/r/cscareerquestions/comments/1q7yujx/should_i_just_not_do_this/)
 - Study
   - https://github.com/phitronio
