@@ -1,0 +1,1 @@
+LWJGL-based Java game | The Lightweight Java Game Library (LWJGL) is an open-source software library that provides direct, high-performance bindings to native APIs like OpenGL, Vulkan, and OpenAL for Java developers. It is not a game engine itself but an "enabling technology" that serves as the foundation for many popular Java games and higher-level game engines. 
