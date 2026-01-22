@@ -10,6 +10,7 @@
       <th>Repository</th>
       <th>Related Gist</th>
       <th>Related Repo</th>
+      <th>References</th>
     </tr>
   </thead>
   <tbody>
@@ -73,6 +74,7 @@
       <td><a href="https://github.com/b1tranger/learning-js-framework">learning-js-framework</a></td>
       <td></td>
       <td></td>
+      <td><a href="https://github.com/Monotheist0/learning-web-development">@monotheist/web-dev</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/b1tranger/learning-API">learning-API</a></td>
