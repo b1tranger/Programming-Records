@@ -21,7 +21,7 @@
       <td rowspan="2" valign="center">Programming</td>
       <td><a href="https://github.com/b1tranger/python_G_colab">Learning Python</a></td>
       <td><a href="https://gist.github.com/b1tranger/65c517847062857ac68ea6c83a214ac0">My python learning record</a></td>
-      <td><a href="https://github.com/b1tranger/b1t.python-script-practice">b1t.python-script-practice</a>, <a href="https://github.com/b1tranger/learning-API/blob/main/Bot/social-bot-1.md">social-bot</a></td>
+      <td><a href="https://github.com/b1tranger/b1t.python-script-practice">b1t.python-script-practice</a>, <a href="https://github.com/b1tranger/learning-API/blob/main/Bot/social-bot-1.md">social-bot</a>, <a href="https://github.com/b1tranger/CSE0613312-AI-Lab">CSE0613312-AI-Lab</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/b1tranger/spck-test">spck-test</a></td>
@@ -83,7 +83,17 @@
         <tr>
        <!-- #################################### -->
        <!-- #################################### -->
-      <td rowspan="5" valign="center">Academic</td>
+      <td rowspan="7" valign="center">Academic</td>
+          <td><a href="https://github.com/b1tranger/CSE0613312-AI-Lab">CSE0613312-AI-Lab</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/b1tranger/CSE0613316-SPDD-Project-Design">CSE0613316-SPDD-Project-Design</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/b1tranger/CSE0613122-OOP-Lab">CSE0613122-OOP-Lab</a></td>
       <td></td>
       <td></td>
