@@ -22,9 +22,11 @@
       <td><a href="https://github.com/b1tranger/python_G_colab">Learning Python</a></td>
       <td><a href="https://gist.github.com/b1tranger/65c517847062857ac68ea6c83a214ac0">My python learning record</a></td>
       <td><a href="https://github.com/b1tranger/b1t.python-script-practice">b1t.python-script-practice</a>, <a href="https://github.com/b1tranger/learning-API/blob/main/Bot/social-bot-1.md">social-bot</a>, <a href="https://github.com/b1tranger/CSE0613312-AI-Lab">CSE0613312-AI-Lab</a></td>
+      <td><a href="https://github.com/b1tranger/b1t.Hand_Gesture_control__system">b1t.Hand_Gesture_control__system</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/b1tranger/spck-test">spck-test</a></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -34,6 +36,7 @@
       <td rowspan="7" valign="center">Development</td>
       <td><a href="https://github.com/b1tranger/learning-php-laravel">Learning PHP & Laravel</a></td>
       <td><a href="https://gist.github.com/b1tranger/292f29de25c56a830cc19762445642c8">Learning PHP in CLI</a></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -46,19 +49,23 @@
       <td><a href="https://github.com/b1tranger/learning-API">learning-API</a></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/b1tranger/Game-Development-Journey">Game-Development-Journey</a></td>
       <td></td>
       <td><a href="https://github.com/b1tranger/2D-Game_DSA-project">DSA-Project</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/b1tranger/learning-linux">learning-linux</a></td>
       <td></td>
       <td><a href="https://github.com/b1tranger/learning-cpp-extended/">learning-cpp-extended</a></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/b1tranger/learning-flutter">learning-flutter</a></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -66,6 +73,7 @@
       <td><a href="https://github.com/b1tranger/learning-gui-client">learning-gui-client</a></td>
       <td></td>
       <td><a href="https://github.com/b1tranger/learning-cpp-extended/">learning-cpp-extended</a></td>
+      <td></td>
     </tr>
                  <!-- #################################### -->
        <!-- #################################### -->
@@ -74,9 +82,11 @@
       <td><a href="https://github.com/b1tranger/b1t.UITS-Programming-Hub">Programming-Hub</a></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/b1tranger/b1t.programming-with-bros">programming-with-bros</a></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -87,9 +97,11 @@
           <td><a href="https://github.com/b1tranger/CSE0613312-AI-Lab">CSE0613312-AI-Lab</a></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/b1tranger/CSE0613316-SPDD-Project-Design">CSE0613316-SPDD-Project-Design</a></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -97,9 +109,11 @@
       <td><a href="https://github.com/b1tranger/Support-Hero_SESA-Lab-Project">SESA-Lab-Project</a></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/b1tranger/CSE0613122-OOP-Lab">CSE0613122-OOP-Lab</a></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -107,9 +121,11 @@
       <td><a href="https://github.com/b1tranger/CSE0612216-DBMS-Lab">CSE0612216-DBMS-Lab</a></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/b1tranger/CSE0613112-SPL-Lab">CSE0613112-SPL-Lab</a></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -117,9 +133,11 @@
       <td><a href="https://github.com/b1tranger/CSE0612223-DSA-1-Lab">CSE0612223-DSA-1-Lab</a></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/b1tranger/CSE0613124-WAD-Lab">CSE0613124-WAD-Lab</a></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
