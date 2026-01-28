@@ -83,13 +83,18 @@
         <tr>
        <!-- #################################### -->
        <!-- #################################### -->
-      <td rowspan="7" valign="center">Academic</td>
+      <td rowspan="8" valign="center">Academic</td>
           <td><a href="https://github.com/b1tranger/CSE0613312-AI-Lab">CSE0613312-AI-Lab</a></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/b1tranger/CSE0613316-SPDD-Project-Design">CSE0613316-SPDD-Project-Design</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+        <tr>
+      <td><a href="https://github.com/b1tranger/Support-Hero_SESA-Lab-Project">SESA-Lab-Project</a></td>
       <td></td>
       <td></td>
     </tr>
