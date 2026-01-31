@@ -10,7 +10,7 @@
       <th>Repository</th>
       <th>Related Gist</th>
       <th>Related Repo</th>
-      <th>References</th>
+      <th>References.Courses</th>
     </tr>
   </thead>
   <tbody>
@@ -73,7 +73,7 @@
       <td><a href="https://github.com/b1tranger/learning-gui-client">learning-gui-client</a></td>
       <td></td>
       <td><a href="https://github.com/b1tranger/learning-cpp-extended/">learning-cpp-extended</a></td>
-      <td></td>
+      <td><a href="https://github.com/b1tranger/b1t.CppDeveloperRoadmap">b1t.CppDeveloperRoadmap</a></td>
     </tr>
                  <!-- #################################### -->
        <!-- #################################### -->
