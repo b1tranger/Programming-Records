@@ -151,7 +151,11 @@
 - Study
   - https://github.com/phitronio
 
-- Problems
+- Online Judge
+  -  https://leetcode.com/
+  -  https://codeforces.com/
+
+- Problem Sets
   - https://exercism.org/tracks &larr; [@monotheist](https://github.com/Monotheist0)
   - https://youkn0wwho.academy/topic-list &larr; https://shahjalalshohag.com/
   - [Assiut University Training - Newcomers](https://codeforces.com/group/MWSDmqGsZm) &larr; [@saimasiddique](https://github.com/saimasiddique)
