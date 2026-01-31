@@ -21,8 +21,8 @@
       <td rowspan="2" valign="center">Programming</td>
       <td><a href="https://github.com/b1tranger/python_G_colab">Learning Python</a></td>
       <td><a href="https://gist.github.com/b1tranger/65c517847062857ac68ea6c83a214ac0">My python learning record</a></td>
-      <td><a href="https://github.com/b1tranger/b1t.python-script-practice">b1t.python-script-practice</a>, <a href="https://github.com/b1tranger/learning-API/blob/main/Bot/social-bot-1.md">social-bot</a>, <a href="https://github.com/b1tranger/CSE0613312-AI-Lab">CSE0613312-AI-Lab</a></td>
-      <td><a href="https://github.com/b1tranger/b1t.Hand_Gesture_control__system">b1t.Hand_Gesture_control__system</a>, <a href="https://github.com/b1tranger/b1t.30-Days-Of-Python">b1t.30-Days-Of-Python</a></td>
+      <td><a href="https://github.com/b1tranger/b1t.python-script-practice">b1t.python-script-practice</a>,<br><a href="https://github.com/b1tranger/learning-API/blob/main/Bot/social-bot-1.md">social-bot</a>,<br><a href="https://github.com/b1tranger/CSE0613312-AI-Lab">CSE0613312-AI-Lab</a></td>
+      <td><a href="https://github.com/b1tranger/b1t.Hand_Gesture_control__system">b1t.Hand_Gesture_control__system</a>,<br><a href="https://github.com/b1tranger/b1t.30-Days-Of-Python">b1t.30-Days-Of-Python</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/b1tranger/spck-test">spck-test</a></td>
@@ -43,7 +43,7 @@
       <td><a href="https://github.com/b1tranger/learning-js-framework">learning-js-framework</a></td>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/Monotheist0/learning-web-development">@monotheist/web-dev</a>, <a href="https://github.com/b1tranger/b1t.30-Days-Of-JavaScript" target="_blank">b1t.30-Days-Of-JavaScript</a>, <a href="https://github.com/b1tranger/b1t.30-Days-Of-React" target="_blank">b1t.30-Days-Of-React</a></td>
+      <td><a href="https://github.com/Monotheist0/learning-web-development">@monotheist/web-dev</a>,<br><a href="https://github.com/b1tranger/b1t.30-Days-Of-JavaScript" target="_blank">b1t.30-Days-Of-JavaScript</a>,<br><a href="https://github.com/b1tranger/b1t.30-Days-Of-React" target="_blank">b1t.30-Days-Of-React</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/b1tranger/learning-API">learning-API</a></td>
