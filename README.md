@@ -43,7 +43,7 @@
       <td><a href="https://github.com/b1tranger/learning-js-framework">learning-js-framework</a></td>
       <td></td>
       <td></td>
-      <td><a href="https://github.com/Monotheist0/learning-web-development">@monotheist/web-dev</a></td>
+      <td><a href="https://github.com/Monotheist0/learning-web-development">@monotheist/web-dev</a>, <a href="https://github.com/b1tranger/b1t.30-Days-Of-JavaScript" target="_blank">b1t.30-Days-Of-JavaScript</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/b1tranger/learning-API">learning-API</a></td>
