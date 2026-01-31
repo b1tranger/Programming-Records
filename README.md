@@ -158,6 +158,7 @@
   - [problemset_07.05.25_CJ.pdf](https://github.com/user-attachments/files/24408256/problemset_07.05.25_CJ.pdf)
 
 - Readings
+  - [[Tutorial] Common Mistakes in Competitive Programming and How to Avoid Them](https://codeforces.com/blog/entry/111217)
   - [VScodeSettings.md](https://gist.github.com/b1tranger/947338764fb8b1bf9960567e7180e0f8)
   - [personal-dev-guides](https://github.com/b1tranger/personal-dev-guides)
   - [GitHub_Concepts.md](https://gist.github.com/b1tranger/882ef843c42005b298106439891bc3dd)
