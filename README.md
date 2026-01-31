@@ -41,9 +41,9 @@
     </tr>
     <tr>
       <td><a href="https://github.com/b1tranger/learning-js-framework">learning-js-framework</a></td>
+      <td><a href="https://gist.github.com/b1tranger/b4b87e78cc349a3dee0a530ea1605aa8">WebDevRecord.md</a></td>
       <td></td>
-      <td></td>
-      <td><a href="https://github.com/Monotheist0/learning-web-development">@monotheist/web-dev</a>,<br><a href="https://github.com/b1tranger/b1t.30-Days-Of-JavaScript" target="_blank">b1t.30-Days-Of-JavaScript</a>,<br><a href="https://github.com/b1tranger/b1t.30-Days-Of-React" target="_blank">b1t.30-Days-Of-React</a></td>
+      <td><a href="https://github.com/Monotheist0/learning-web-development">@monotheist/web-dev</a>,<br><a href="https://github.com/b1tranger/b1t.30-Days-Of-HTML" target="_blank">b1t.30-Days-Of-HTML</a>,<br><a href="https://github.com/b1tranger/b1t.30-Days-Of-JavaScript" target="_blank">b1t.30-Days-Of-JavaScript</a>,<br><a href="https://github.com/b1tranger/b1t.30-Days-Of-React" target="_blank">b1t.30-Days-Of-React</a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/b1tranger/learning-API">learning-API</a></td>
