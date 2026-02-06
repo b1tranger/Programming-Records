@@ -2,6 +2,10 @@
 <!-- # [⬇️](#%EF%B8%8F-1) -->
 # # Programming Records
 
+## # Project Ideas
+- https://github.com/b1tranger/b1t.build-your-own-x
+
+
 ## # Related Repositories
 <table>
   <thead>
