@@ -37,7 +37,7 @@
     <tr>
              <!-- #################################### -->
        <!-- #################################### -->
-      <td rowspan="7" valign="center">Development</td>
+      <td rowspan="8" valign="center">Development</td>
       <td><a href="https://github.com/b1tranger/learning-php-laravel">Learning PHP & Laravel</a></td>
       <td><a href="https://gist.github.com/b1tranger/292f29de25c56a830cc19762445642c8">Learning PHP in CLI</a></td>
       <td></td>
@@ -78,6 +78,12 @@
       <td></td>
       <td><a href="https://github.com/b1tranger/learning-cpp-extended/">learning-cpp-extended</a></td>
       <td><a href="https://github.com/b1tranger/b1t.CppDeveloperRoadmap">b1t.CppDeveloperRoadmap</a></td>
+    </tr>
+    <tr>
+      <td>Web Hosting</td>
+      <td><a href="https://gist.github.com/b1tranger/f6cfa529b09fbd5f42c6bfd2127c9bb6">FirebaseHostingNote.md</a></td>
+      <td></td>
+      <td></td>
     </tr>
                  <!-- #################################### -->
        <!-- #################################### -->
